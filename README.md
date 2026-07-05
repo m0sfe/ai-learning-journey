@@ -1,5 +1,4 @@
-@'
-# AI Learning Journey
+﻿# AI Learning Journey
 
 This repository documents my practical journey to become job-ready in AI and Data Science.
 
@@ -25,3 +24,8 @@ ai-learning-journey/
 |-- README.md
 |-- requirements.txt
 `-- .gitignore
+```
+
+## Progress
+
+- Day 1: Environment setup and Git/GitHub basics

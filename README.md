@@ -7,6 +7,7 @@ This repository documents my practical journey to become job-ready in AI and Dat
 - Python foundations for AI
 - Git/GitHub basics
 - Clean project structure
+- 80% done from git and github
 
 ## Goals
 
